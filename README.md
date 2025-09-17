@@ -25,5 +25,5 @@ A simple **Tic Tac Toe game in Java** built using conditional statements and loo
    ```bash
    git clone https://github.com/your-username/tic-tac-toe.git
 ## screenshot
-![image alt]("")  
+![image alt]("WhatsApp Image 2025-09-17 at 3.24.45 PM.jpeg")  
 
