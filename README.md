@@ -1,7 +1,7 @@
 
 ---
 
-## ❌⭕ Tic Tac Toe (Java)  
+# Tic Tac Toe (Java)  
 
 ```markdown
 # Tic Tac Toe  
@@ -10,15 +10,15 @@ A simple **Tic Tac Toe game in Java** built using conditional statements and loo
 
 ---
 
-## 🚀 Features  
-- 🎮 Two-player mode  
-- 📝 Displays the game board after every move  
-- ✅ Detects winners or draw conditions  
-- 🔄 Replay option  
+## Features  
+-  Two-player mode  
+-  Displays the game board after every move  
+-  Detects winners or draw conditions  
+-  Replay option  
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠 Tech Stack  
 - **Java** (Core Java, conditionals & loops)  
 
 1. Clone the repository  
